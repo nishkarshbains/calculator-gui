@@ -107,4 +107,5 @@ tfq = Button(ezz,text=".",font="lucida 30 bold",fg="black",padx=35)
 tfq.pack(side="left",padx = 5,pady = 5)
 tfq.bind("<Button-1>",click)
 root.mainloop()
+#i hope you like it.
 
